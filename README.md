@@ -116,7 +116,7 @@ I enjoy turning complex requirements into practical software using LLMs, RAG, AI
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muragharajendra/Muragharajendra/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/Muragharajendra/Muragharajendra/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 
