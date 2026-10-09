@@ -107,21 +107,18 @@ I enjoy turning complex requirements into practical software using LLMs, RAG, AI
 - **Business Automation:** AI-powered employee support and enterprise workflow automation.
 - **Cloud & Deployment:** Azure and deployment strategies for AI-powered applications.
 
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muragharajendra&show_icons=true&theme=github_dark&hide_border=true&icon_color=00e676&title_color=00e676" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muragharajendra&layout=compact&theme=github_dark&hide_border=true&title_color=00e676" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muragharajendra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Muragharajendra&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Muragharajendra&theme=github-compact&hide_border=true"
-    width="100%"
-    alt="Muragharajendra's GitHub Activity Graph"
-  />
+  <img src="https://raw.githubusercontent.com/Muragharajendra/Muragharajendra/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
+
 
 
 ---
@@ -136,6 +133,8 @@ I enjoy turning complex requirements into practical software using LLMs, RAG, AI
 
 <br/>
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DA8B36,50:CC0000,100:800080&height=100&section=footer" width="100%" alt="Orange, red, and purple wave footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:C026D3&height=100&section=footer" width="100%" alt="Blue, purple, and magenta gradient footer"/>
 </p>
+
